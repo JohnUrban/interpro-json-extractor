@@ -1,0 +1,5 @@
+v0.0.0-dirty-20220721
+- First pass script
+- Takes in a JSON and a single protein name
+- Prints a JSON for just that single protein that can be visualized here:
+	- https://www.ebi.ac.uk/interpro/result/InterProScan/#table
