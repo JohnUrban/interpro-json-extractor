@@ -6,6 +6,8 @@ parser = argparse.ArgumentParser(description="""
 
 DESCRIPTION
 
+    DEPRECATED: please find current dev version in repo called "interpr-what-do-ya-know".
+
     v0.0.0-dirty-20220721
     
     Takes in JSON output of interproscan with some options.
